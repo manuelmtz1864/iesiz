@@ -1,7 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\CertificateController;
+use App\Http\Controllers\HashingController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -16,3 +17,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('certificates/verificacion/{folio}',  [CertificateController::class, 'show'])->name('certificates.show');;
+Route::get('hash-range/{start}/{end}', [HashingController::class, 'hashRange']);
