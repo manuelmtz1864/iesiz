@@ -18,5 +18,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('certificates/verificacion/{folio}',  [CertificateController::class, 'show'])->name('certificates.show');;
+Route::get('/certificates/verificacion/{folio}',  [CertificateController::class, 'show'])->name('certificates.show');;
 Route::get('hash-range/{start}/{end}', [HashingController::class, 'hashRange']);
