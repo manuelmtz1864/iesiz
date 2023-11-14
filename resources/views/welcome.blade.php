@@ -44,20 +44,20 @@
                       <!-- RD Navbar Share-->
                       <div class="rd-navbar-share fl-bigmug-line-share27" data-rd-navbar-toggle=".rd-navbar-share-list">
                         <ul class="list-inline rd-navbar-share-list">
-                          <li class="rd-navbar-share-list-item"><a class="icon fa fa-facebook" href="#"></a></li>
+                          <li class="rd-navbar-share-list-item"><a class="icon fa fa-facebook" href="https://www.facebook.com/IESIZTORREON"></a></li>
                           <li class="rd-navbar-share-list-item"><a class="icon fa fa-twitter" href="#"></a></li>
                           <li class="rd-navbar-share-list-item"><a class="icon fa fa-google-plus" href="#"></a></li>
-                          <li class="rd-navbar-share-list-item"><a class="icon fa fa-instagram" href="#"></a></li>
+                          <li class="rd-navbar-share-list-item"><a class="icon fa fa-instagram" href="https://www.instagram.com/iesiz_torreon/"></a></li>
                         </ul>
                       </div>
                       <ul class="rd-navbar-nav">
-                        <li class="rd-nav-item active"><a class="rd-nav-link" href="#home">Home</a></li>
+                        <li class="rd-nav-item active"><a class="rd-nav-link" href="#home">INICIO</a></li>
                         <li class="rd-nav-item"><a class="rd-nav-link" href="https://plataformaiesiz.com/index.php">ALUMNOS</a></li>
                         <li class="rd-nav-item"><a class="rd-nav-link" href="https://plataformaiesiz.com/index.php">MAESTROS</a></li>
-                        <li class="rd-nav-item"><a class="rd-nav-link" href="#services">Services</a></li>
+                        <!--<li class="rd-nav-item"><a class="rd-nav-link" href="#services">Services</a></li>-->
                         <li class="rd-nav-item"><a class="rd-nav-link" href="#projects">CAMPUS</a></li>
-                        <li class="rd-nav-item"><a class="rd-nav-link" href="#team">Team</a></li>
-                        <li class="rd-nav-item"><a class="rd-nav-link" href="#news">News</a></li>
+                        <!--<li class="rd-nav-item"><a class="rd-nav-link" href="#team">Team</a></li>
+                        <li class="rd-nav-item"><a class="rd-nav-link" href="#news">News</a></li>-->
                         <li class="rd-nav-item"><a class="rd-nav-link" href="http://cloud.iesiz.mx/index.php/login">CLOUD</a></li>
                       </ul>
                     </div>
@@ -71,27 +71,27 @@
         <!-- Swiper-->
         <section class="section swiper-container swiper-slider swiper-slider-classic" data-loop="true" data-autoplay="4859" data-simulate-touch="true" data-direction="vertical" data-nav="false">
           <div class="swiper-wrapper text-center">
-            <div class="swiper-slide" data-slide-bg="images/slider-1-slide-2-1770x742.jpg">
+            <div class="swiper-slide" data-slide-bg="images/banneriesizv2.jpeg">
               <div class="swiper-slide-caption section-md">
                 <div class="container">
-                  <h1 data-caption-animate="fadeInLeft" data-caption-delay="0">Mobile App Development</h1>
-                  <p class="text-width-large" data-caption-animate="fadeInRight" data-caption-delay="100">Since our establishment, we have been delivering high-quality and sustainable software solutions for corporate purposes of worldwide businesses.</p><a class="button button-primary button-ujarak" href="#modalCta" data-toggle="modal" data-caption-animate="fadeInUp" data-caption-delay="200">Get in touch</a>
+                  <h1 data-caption-animate="fadeInLeft" data-caption-delay="0" style="color: #ffff;">EN MANTENIMIENTO</h1>
+                  <p class="text-width-large" data-caption-animate="fadeInRight" data-caption-delay="100" style="color: #ffff;">Iesiz, ¡Construye tu futuro!</p><a class="button button-primary button-ujarak" href="#modalCta" data-toggle="modal" data-caption-animate="fadeInUp" data-caption-delay="200">Proximanente</a>
                 </div>
               </div>
             </div>
-            <div class="swiper-slide" data-slide-bg="images/slider-1-slide-4-1770x742.jpg">
+            <div class="swiper-slide" data-slide-bg="images/banneriesizv3.jpeg">
               <div class="swiper-slide-caption section-md">
                 <div class="container">
-                  <h1 data-caption-animate="fadeInLeft" data-caption-delay="0">Experienced Team</h1>
-                  <p class="text-width-large" data-caption-animate="fadeInRight" data-caption-delay="100">We are a team of qualified software developers, aimed at creating unique and powerful tools for your business & everyday life.</p><a class="button button-primary button-ujarak" href="#modalCta" data-toggle="modal" data-caption-animate="fadeInUp" data-caption-delay="200">Get in touch</a>
+                  <h1 data-caption-animate="fadeInLeft" data-caption-delay="0" style="color: #ffff;">EN MANTENIMIENTO</h1>
+                  <p class="text-width-large" data-caption-animate="fadeInRight" data-caption-delay="100" style="color: #ffff;">Iesiz, ¡Construye tu futuro!</p><a class="button button-primary button-ujarak" href="#modalCta" data-toggle="modal" data-caption-animate="fadeInUp" data-caption-delay="200">Proximanente</a>
                 </div>
               </div>
             </div>
-            <div class="swiper-slide" data-slide-bg="images/slider-1-slide-6-1770x742.jpg">
+            <div class="swiper-slide" data-slide-bg="images/BannerOp1.png">
               <div class="swiper-slide-caption section-md">
                 <div class="container">
-                  <h1 data-caption-animate="fadeInLeft" data-caption-delay="0">Award-Winning Software</h1>
-                  <p class="text-width-large" data-caption-animate="fadeInRight" data-caption-delay="100">The software solutions developed by our company have been numerously awarded for usability and innovative features.</p><a class="button button-primary button-ujarak" href="#modalCta" data-toggle="modal" data-caption-animate="fadeInUp" data-caption-delay="200">Get in touch</a>
+                  <h1 data-caption-animate="fadeInLeft" data-caption-delay="0" style="color: #ffff;">EN MANTENIMIENTO</h1>
+                  <p class="text-width-large" data-caption-animate="fadeInRight" data-caption-delay="100" style="color: #ffff;">Iesiz, ¡Construye tu futuro!</p><a class="button button-primary button-ujarak" href="#modalCta" data-toggle="modal" data-caption-animate="fadeInUp" data-caption-delay="200">Proximanente</a>
                 </div>
               </div>
             </div>
@@ -106,7 +106,7 @@
 
       </div>
       <!-- See all services-->
-      <section class="section section-sm section-first bg-default text-center" id="services">
+      <!--<section class="section section-sm section-first bg-default text-center" id="services">
         <div class="container">
           <div class="row row-30 justify-content-center">
             <div class="col-md-7 col-lg-5 col-xl-6 text-lg-left wow fadeInUp"><img src="images/index-1-415x592.png" alt="" width="415" height="592"/>
@@ -149,10 +149,10 @@
             </div>
           </div>
         </div>
-      </section>
+      </section>-->
 
       <!-- Cta-->
-      <section class="section section-fluid bg-default">
+      <!--<section class="section section-fluid bg-default">
         <div class="parallax-container" data-parallax-img="images/parallax-1.jpg">
           <div class="parallax-content section-xl context-dark bg-overlay-68 bg-mobile-overlay">
             <div class="container">
@@ -166,10 +166,10 @@
             </div>
           </div>
         </div>
-      </section>
+      </section>-->
 
       <!-- Latest Projects-->
-      <section class="section section-sm section-fluid bg-default text-center" id="projects">
+      <!--<section class="section section-sm section-fluid bg-default text-center" id="projects">
         <div class="container-fluid">
           <h2 class="wow fadeInLeft">Latest Projects</h2>
           <p class="quote-jean wow fadeInRight" data-wow-delay=".1s">In our portfolio, you can browse the latest products developed for our clients for different corporate purposes. Our qualified team of interface designers and software developers is always ready to create something unique for you.</p>
@@ -184,9 +184,9 @@
             </ul>
           </div>
           <div class="row row-30 isotope" data-isotope-layout="fitRows" data-isotope-group="gallery" data-lightgallery="group">
-            <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInRight" data-filter="Type 4">
+            <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInRight" data-filter="Type 4">-->
               <!-- Thumbnail Classic-->
-              <article class="thumbnail thumbnail-classic thumbnail-md">
+              <!--<article class="thumbnail thumbnail-classic thumbnail-md">
                 <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-1-420x350.jpg" alt="" width="420" height="350"/>
                 </div>
                 <div class="thumbnail-classic-caption">
@@ -197,9 +197,9 @@
                 </div>
               </article>
             </div>
-            <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInRight" data-filter="Type 1" data-wow-delay=".1s">
+            <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInRight" data-filter="Type 1" data-wow-delay=".1s">-->
               <!-- Thumbnail Classic-->
-              <article class="thumbnail thumbnail-classic thumbnail-md">
+              <!--<article class="thumbnail thumbnail-classic thumbnail-md">
                 <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-2-420x350.jpg" alt="" width="420" height="350"/>
                 </div>
                 <div class="thumbnail-classic-caption">
@@ -210,9 +210,9 @@
                 </div>
               </article>
             </div>
-            <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInRight" data-filter="Type 2" data-wow-delay=".2s">
+            <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInRight" data-filter="Type 2" data-wow-delay=".2s">-->
               <!-- Thumbnail Classic-->
-              <article class="thumbnail thumbnail-classic thumbnail-md">
+              <!--<article class="thumbnail thumbnail-classic thumbnail-md">
                 <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-3-420x350.jpg" alt="" width="420" height="350"/>
                 </div>
                 <div class="thumbnail-classic-caption">
@@ -223,9 +223,9 @@
                 </div>
               </article>
             </div>
-            <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInRight" data-filter="Type 3" data-wow-delay=".3s">
+            <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInRight" data-filter="Type 3" data-wow-delay=".3s">-->
               <!-- Thumbnail Classic-->
-              <article class="thumbnail thumbnail-classic thumbnail-md">
+              <!--<article class="thumbnail thumbnail-classic thumbnail-md">
                 <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-4-420x350.jpg" alt="" width="420" height="350"/>
                 </div>
                 <div class="thumbnail-classic-caption">
@@ -236,9 +236,9 @@
                 </div>
               </article>
             </div>
-            <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInLeft" data-filter="Type 3">
+            <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInLeft" data-filter="Type 3">-->
               <!-- Thumbnail Classic-->
-              <article class="thumbnail thumbnail-classic thumbnail-md">
+              <!--<article class="thumbnail thumbnail-classic thumbnail-md">
                 <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-5-420x350.jpg" alt="" width="420" height="350"/>
                 </div>
                 <div class="thumbnail-classic-caption">
@@ -249,9 +249,9 @@
                 </div>
               </article>
             </div>
-            <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInLeft" data-filter="Type 1" data-wow-delay=".1s">
+            <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInLeft" data-filter="Type 1" data-wow-delay=".1s">-->
               <!-- Thumbnail Classic-->
-              <article class="thumbnail thumbnail-classic thumbnail-md">
+              <!--<article class="thumbnail thumbnail-classic thumbnail-md">
                 <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-6-420x350.jpg" alt="" width="420" height="350"/>
                 </div>
                 <div class="thumbnail-classic-caption">
@@ -263,8 +263,8 @@
               </article>
             </div>
             <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInLeft" data-filter="Type 2" data-wow-delay=".2s">
-              <!-- Thumbnail Classic-->
-              <article class="thumbnail thumbnail-classic thumbnail-md">
+--><!-- Thumbnail Classic-->
+              <!--<article class="thumbnail thumbnail-classic thumbnail-md">
                 <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-7-420x350.jpg" alt="" width="420" height="350"/>
                 </div>
                 <div class="thumbnail-classic-caption">
@@ -276,8 +276,8 @@
               </article>
             </div>
             <div class="col-sm-6 col-lg-4 col-xxl-3 isotope-item wow fadeInLeft" data-filter="Type 3" data-wow-delay=".3s">
-              <!-- Thumbnail Classic-->
-              <article class="thumbnail thumbnail-classic thumbnail-md">
+--><!-- Thumbnail Classic-->
+              <!--<article class="thumbnail thumbnail-classic thumbnail-md">
                 <div class="thumbnail-classic-figure"><img src="images/fullwidth-gallery-8-420x350.jpg" alt="" width="420" height="350"/>
                 </div>
                 <div class="thumbnail-classic-caption">
@@ -292,8 +292,8 @@
         </div>
       </section>
 
-      <!-- Years of experience-->
-      <section class="section section-sm bg-default">
+--><!-- Years of experience-->
+      <!--<section class="section section-sm bg-default">
         <div class="container">
           <div class="row row-30 row-xl-24 justify-content-center align-items-center align-items-lg-start text-left">
             <div class="col-md-6 col-lg-5 col-xl-4 text-center"><a class="text-img" href="#">
@@ -348,23 +348,23 @@
         </div>
       </section>
 
-      <!-- Meet The Team-->
-      <section class="section section-sm section-fluid bg-default" id="team">
+--><!-- Meet The Team-->
+      <!--<section class="section section-sm section-fluid bg-default" id="team">
         <div class="container-fluid">
           <h2>Meet The Team</h2>
           <div class="row row-sm row-30 justify-content-center">
             <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight">
-              <!-- Team Classic-->
-              <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#"><img src="images/team-11-420x424.jpg" alt="" width="420" height="424"/></a>
+--><!-- Team Classic-->
+              <!--<article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#"><img src="images/team-11-420x424.jpg" alt="" width="420" height="424"/></a>
                 <div class="team-classic-caption">
                   <h4 class="team-classic-name"><a href="#">Ryan Wilson</a></h4>
                   <p class="team-classic-status">Director of Production</p>
                 </div>
               </article>
             </div>
-            <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".1s">
-              <!-- Team Classic-->
-              <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#"><img src="images/team-12-420x424.jpg" alt="" width="420" height="424"/></a>
+            --<div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".1s">
+--><!-- Team Classic-->
+              <!--<article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#"><img src="images/team-12-420x424.jpg" alt="" width="420" height="424"/></a>
                 <div class="team-classic-caption">
                   <h4 class="team-classic-name"><a href="#">Jill Peterson</a></h4>
                   <p class="team-classic-status">UI Designer</p>
@@ -372,8 +372,8 @@
               </article>
             </div>
             <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".2s">
-              <!-- Team Classic-->
-              <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#"><img src="images/team-13-420x424.jpg" alt="" width="420" height="424"/></a>
+--><!-- Team Classic-->
+              <!--<article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#"><img src="images/team-13-420x424.jpg" alt="" width="420" height="424"/></a>
                 <div class="team-classic-caption">
                   <h4 class="team-classic-name"><a href="#">Sam Robinson</a></h4>
                   <p class="team-classic-status">Senior Developer</p>
@@ -381,8 +381,8 @@
               </article>
             </div>
             <div class="col-md-6 col-lg-5 col-xl-3 wow fadeInRight" data-wow-delay=".3s">
-              <!-- Team Classic-->
-              <article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#"><img src="images/team-14-420x424.jpg" alt="" width="420" height="424"/></a>
+--><!-- Team Classic-->
+              <!--<article class="team-classic team-classic-lg"><a class="team-classic-figure" href="#"><img src="images/team-14-420x424.jpg" alt="" width="420" height="424"/></a>
                 <div class="team-classic-caption">
                   <h4 class="team-classic-name"><a href="#">Mary Lee</a></h4>
                   <p class="team-classic-status">Software Developer</p>
@@ -393,23 +393,23 @@
         </div>
       </section>
 
-      <!-- You dream — we embody-->
-      <section class="section section-sm bg-default text-md-left">
+--><!-- You dream — we embody-->
+      <!--<section class="section section-sm bg-default text-md-left">
         <div class="container">
           <div class="row row-50 align-items-center justify-content-center justify-content-xl-between">
             <div class="col-lg-6 col-xl-5 wow fadeInLeft">
               <h2>Get More With Us</h2>
-              <!-- Bootstrap tabs-->
-              <div class="tabs-custom tabs-horizontal tabs-line tabs-line-big text-center text-md-left" id="tabs-6">
-                <!-- Nav tabs-->
-                <ul class="nav nav-tabs">
+--><!-- Bootstrap tabs-->
+              <!--<div class="tabs-custom tabs-horizontal tabs-line tabs-line-big text-center text-md-left" id="tabs-6">
+--><!-- Nav tabs-->
+                <!--<ul class="nav nav-tabs">
                   <li class="nav-item" role="presentation"><a class="nav-link nav-link-big active" href="#tabs-6-1" data-toggle="tab">01</a></li>
                   <li class="nav-item" role="presentation"><a class="nav-link nav-link-big" href="#tabs-6-2" data-toggle="tab">02</a></li>
                   <li class="nav-item" role="presentation"><a class="nav-link nav-link-big" href="#tabs-6-3" data-toggle="tab">03</a></li>
                   <li class="nav-item" role="presentation"><a class="nav-link nav-link-big" href="#tabs-6-4" data-toggle="tab">04</a></li>
                 </ul>
-                <!-- Tab panes-->
-                <div class="tab-content">
+--><!-- Tab panes-->
+                <!--<div class="tab-content">
                   <div class="tab-pane fade show active" id="tabs-6-1">
                     <h5 class="font-weight-normal">FREE APPS</h5>
                     <p>We regularly upload new free apps to our website, which is fully accessible to our clients and subscribers. You can also find out about free apps in our blog.</p>
@@ -440,14 +440,14 @@
         </div>
       </section>
 
-      <!-- What people Say-->
-      <section class="section section-sm section-bottom-70 section-fluid bg-default">
+--><!-- What people Say-->
+      <!--<section class="section section-sm section-bottom-70 section-fluid bg-default">
         <div class="container-fluid">
           <h2>What people Say</h2>
           <div class="row row-50 row-sm">
             <div class="col-md-6 col-xl-4 wow fadeInRight">
-              <!-- Quote Modern-->
-              <article class="quote-modern quote-modern-custom">
+--><!-- Quote Modern-->
+              <!--<article class="quote-modern quote-modern-custom">
                 <div class="unit unit-spacing-md align-items-center">
                   <div class="unit-left"><a class="quote-modern-figure" href="#"><img class="img-circles" src="images/user-11-75x75.jpg" alt="" width="75" height="75"/></a></div>
                   <div class="unit-body">
@@ -461,8 +461,8 @@
               </article>
             </div>
             <div class="col-md-6 col-xl-4 wow fadeInRight" data-wow-delay=".1s">
-              <!-- Quote Modern-->
-              <article class="quote-modern quote-modern-custom">
+--><!-- Quote Modern-->
+              <!--<article class="quote-modern quote-modern-custom">
                 <div class="unit unit-spacing-md align-items-center">
                   <div class="unit-left"><a class="quote-modern-figure" href="#"><img class="img-circles" src="images/user-12-75x75.jpg" alt="" width="75" height="75"/></a></div>
                   <div class="unit-body">
@@ -476,8 +476,8 @@
               </article>
             </div>
             <div class="col-md-6 col-xl-4 wow fadeInRight" data-wow-delay=".2s">
-              <!-- Quote Modern-->
-              <article class="quote-modern quote-modern-custom">
+--><!-- Quote Modern-->
+              <!--<article class="quote-modern quote-modern-custom">
                 <div class="unit unit-spacing-md align-items-center">
                   <div class="unit-left"><a class="quote-modern-figure" href="#"><img class="img-circles" src="images/user-20-75x75.jpg" alt="" width="75" height="75"/></a></div>
                   <div class="unit-body">
@@ -494,17 +494,17 @@
         </div>
       </section>
 
-      <!-- Pricing-->
+--><!-- Pricing-->
       
 
       <!-- Latest blog posts-->
-      <section class="section section-sm bg-default" id="news">
+      <!--<section class="section section-sm bg-default" id="news">
         <div class="container">
           <h2>Latest blog posts</h2>
           <div class="row row-45">
             <div class="col-sm-6 col-lg-4 wow fadeInLeft">
-              <!-- Post Modern-->
-              <article class="post post-modern"><a class="post-modern-figure" href="#"><img src="images/post-10-370x307.jpg" alt="" width="370" height="307"/>
+--><!-- Post Modern-->
+              <!--<article class="post post-modern"><a class="post-modern-figure" href="#"><img src="images/post-10-370x307.jpg" alt="" width="370" height="307"/>
                   <div class="post-modern-time">
                     <time datetime="2019-07-04"><span class="post-modern-time-month">07</span><span class="post-modern-time-number">04</span></time>
                   </div></a>
@@ -513,8 +513,8 @@
               </article>
             </div>
             <div class="col-sm-6 col-lg-4 wow fadeInLeft" data-wow-delay=".1s">
-              <!-- Post Modern-->
-              <article class="post post-modern"><a class="post-modern-figure" href="#"><img src="images/post-11-370x307.jpg" alt="" width="370" height="307"/>
+--><!-- Post Modern-->
+              <!--<article class="post post-modern"><a class="post-modern-figure" href="#"><img src="images/post-11-370x307.jpg" alt="" width="370" height="307"/>
                   <div class="post-modern-time">
                     <time datetime="2019-07-17"><span class="post-modern-time-month">07</span><span class="post-modern-time-number">17</span></time>
                   </div></a>
@@ -523,8 +523,8 @@
               </article>
             </div>
             <div class="col-sm-6 col-lg-4 wow fadeInLeft" data-wow-delay=".2s">
-              <!-- Post Modern-->
-              <article class="post post-modern"><a class="post-modern-figure" href="#"><img src="images/post-12-370x307.jpg" alt="" width="370" height="307"/>
+--><!-- Post Modern-->
+              <!--<article class="post post-modern"><a class="post-modern-figure" href="#"><img src="images/post-12-370x307.jpg" alt="" width="370" height="307"/>
                   <div class="post-modern-time">
                     <time datetime="2019-07-22"><span class="post-modern-time-month">07</span><span class="post-modern-time-number">22</span></time>
                   </div></a>
@@ -536,8 +536,8 @@
         </div>
       </section>
 
-      <!-- Contact information-->
-      <section class="section section-sm bg-default">
+--><!-- Contact information-->
+      <!--<section class="section section-sm bg-default">
         <div class="container">
           <div class="row row-30 justify-content-center">
             <div class="col-sm-8 col-md-6 col-lg-4">
@@ -573,7 +573,7 @@
         </div>
       </section>
 
-      <!-- Contact Form-->
+--><!-- Contact Form-->
       
 
       <!-- Bottom Banner-->
@@ -587,11 +587,11 @@
           <div class="container-fluid">
             <div class="footer-minimal-inset oh">
               <ul class="footer-list-category-2">
-                <li><a href="#">UI Design</a></li>
-                <li><a href="#">Windows/Mac OS Apps</a></li>
-                <li><a href="#">Android/iOS Apps</a></li>
-                <li><a href="#">Cloud Solutions</a></li>
-                <li><a href="#">Customer Support</a></li>
+                <li><a href="https://www.facebook.com/IESIZTORREON">Facebook</a></li>
+                <li><a href="https://www.instagram.com/iesiz_torreon/">INSTAGRAM</a></li>
+                <li><a href="#"> </a></li>
+                <li><a href="#"> </a></li>
+                <li><a href="#"> </a></li>
               </ul>
             </div>
             <div class="footer-minimal-bottom-panel text-sm-left">
@@ -599,19 +599,19 @@
                 <div class="col-sm-6 col-md-4 text-sm-right text-md-center">
                   <div>
                     <ul class="list-inline list-inline-sm footer-social-list-2">
-                      <li><a class="icon fa fa-facebook" href="#"></a></li>
+                      <li><a class="icon fa fa-facebook" href="https://www.facebook.com/IESIZTORREON"></a></li>
                       <li><a class="icon fa fa-twitter" href="#"></a></li>
                       <li><a class="icon fa fa-google-plus" href="#"></a></li>
-                      <li><a class="icon fa fa-instagram" href="#"></a></li>
+                      <li><a class="icon fa fa-instagram" href="https://www.instagram.com/iesiz_torreon/"></a></li>
                     </ul>
                   </div>
                 </div>
                 <div class="col-sm-6 col-md-4 order-sm-first">
                   <!-- Rights-->
-                  <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span> <span>RatherApp</span>
+                  <p class="rights"><span>&copy;&nbsp;</span><span class="copyright-year"></span> <span>DLCC Programmer</span>
                   </p>
                 </div>
-                <div class="col-sm-6 col-md-4 text-md-right"><span>All rights reserved.</span> <span>Design&nbsp;by&nbsp;<a href="https://www.templatemonster.com">TemplateMonster</a></span>
+                <div class="col-sm-6 col-md-4 text-md-right"><span>All rights reserved.</span> <span>Design&nbsp;by&nbsp;<a href="https://www.templatemonster.com">Ing. De La Cruz</a></span>
                 </div>
               </div>
             </div>
