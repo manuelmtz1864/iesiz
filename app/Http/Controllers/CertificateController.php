@@ -4,6 +4,8 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Certificate;
+use SimpleSoftwareIO\QrCode\Facades\QrCode;
+
 
 class CertificateController extends Controller
 {
@@ -12,7 +14,28 @@ class CertificateController extends Controller
      */
     public function index()
     {
-        //
+        return view('alumnos.inicio');
+        return Certificate::all();
+    }
+
+    /**
+     * Muestra los alumnos que se van a titularse
+     */
+    public function alumnosTitulacion()
+    {
+        $alumnos = Certificate::all();
+        return view('alumnos.titulacion', compact('alumnos'));
+    }
+
+    /**
+     * Generates a QR code with the given data and returns it as a response.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function generarCodigoQR($folio)
+    {
+        $alumno = Certificate::where('id_hash', $folio)->first();
+        return view('alumnos.qrCode', compact('folio', 'alumno'));
     }
 
     /**

@@ -18,5 +18,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/certificates/verificacion/{folio}',  [CertificateController::class, 'show'])->name('certificates.show');;
+Route::get('/alumnos/inicio',  [CertificateController::class, 'index'])->name('alumnos.index');
+Route::get('/alumnos/titulacion',  [CertificateController::class, 'alumnosTitulacion'])->name('alumnosTitulacion');
+Route::get('/certificates/verificacion/{folio}',  [CertificateController::class, 'show'])->name('certificates.show');
+Route::get('/alumnos/qrCode/{folio}',  [CertificateController::class, 'generarCodigoQR'])->name('generarCodigoQR');
+
+
 Route::get('hash-range/{start}/{end}', [HashingController::class, 'hashRange']);
