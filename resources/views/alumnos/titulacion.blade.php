@@ -138,7 +138,6 @@
         </table>
     </div>
 
-
     <!-- Footer -->
     <footer class="text-center text-lg-start bg-light text-muted">
         <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
@@ -230,12 +229,9 @@
     </footer>
     <!-- Footer -->
 
-
-
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.4.2/mdb.min.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
-
 
     <script type="text/javascript">
         $(document).ready(function() {
