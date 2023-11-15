@@ -37,7 +37,7 @@
                     <!-- RD Navbar Toggle-->
                     <button class="rd-navbar-toggle" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                     <!-- RD Navbar Brand-->
-                    <div class="rd-navbar-brand"><a class="brand" href="index.html"><img src="images/Iesiz50x55.png" alt="" width="60" height="50"/></a></div>
+                    <div class="rd-navbar-brand"><a class="brand" href="welcome.blade.php"><img src="images/Iesiz50x55.png" alt="" width="60" height="50"/></a></div>
                   </div>
                   <div class="rd-navbar-main-element">
                     <div class="rd-navbar-nav-wrap">
