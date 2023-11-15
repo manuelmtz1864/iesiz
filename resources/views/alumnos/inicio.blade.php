@@ -90,7 +90,7 @@
         <div class="d-flex justify-content-center align-items-center" style="height: 100vh">
             <div class="text-center">
                 <img class="mb-4" src="{{ asset('img/LOGOIESIZv1.png') }}" style="width: 100px; height: 150px" />
-                <h5 class="mb-3">Bienvenido al sistema. Cosas nuevas están por venir...</h5>
+                <h5 class="mb-3">Cosas nuevas están por venir...Visítanos próximamente</h5>
                 <p class="mb-3">Equipo de desarrollo tecnológico</p>
                 <a class="btn btn-primary btn-lg" href="#" target="_blank" role="button">Empezar a usar</a>
             </div>

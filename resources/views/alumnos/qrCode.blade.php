@@ -96,7 +96,7 @@
                     <br>
                     <p>Escanéame para volver el certificado</p>
                 </div>
-                <h5 class="mb-3">Bienvenido al sistema de IESIZ.</h5>
+                <h5 class="mb-3">{{$alumno->Nombre}}</h5>
             </div>
         </div>
     </div>
