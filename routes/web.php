@@ -22,6 +22,10 @@ Route::get('/alumnos/inicio',  [CertificateController::class, 'index'])->name('a
 Route::get('/alumnos/titulacion',  [CertificateController::class, 'alumnosTitulacion'])->name('alumnosTitulacion');
 Route::get('/certificates/verificacion/{folio}',  [CertificateController::class, 'show'])->name('certificates.show');
 Route::get('/alumnos/qrCode/{folio}',  [CertificateController::class, 'generarCodigoQR'])->name('generarCodigoQR');
+Route::get('/alumnos/downloadQr/{folio}',  [CertificateController::class, 'DescargarCodigoQR'])->name('DescargarCodigoQR');
+Route::get('/exportarAlumnos',  [CertificateController::class, 'exportarAlumnos'])->name('exportarAlumnos');
+
+
 
 
 Route::get('hash-range/{start}/{end}', [HashingController::class, 'hashRange']);

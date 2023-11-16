@@ -2,10 +2,12 @@
 
 namespace App\Http\Controllers;
 
+use App\Exports\certicadosExport;
 use Illuminate\Http\Request;
 use App\Models\Certificate;
 use SimpleSoftwareIO\QrCode\Facades\QrCode;
-
+use Illuminate\Support\Facades\Response;
+use Maatwebsite\Excel\Facades\Excel;
 
 class CertificateController extends Controller
 {
@@ -36,6 +38,25 @@ class CertificateController extends Controller
     {
         $alumno = Certificate::where('id_hash', $folio)->first();
         return view('alumnos.qrCode', compact('folio', 'alumno'));
+    }
+
+    /**
+     * Downloads a QR code with the given data and returns it as a response.
+     *
+     * @return \Illuminate\Http\Response
+     */
+    public function DescargarCodigoQR($folio)
+    {
+        $imagen = QrCode::format('png')->size(200)->generate('http:192.168.1.15/iesiz/public/certificates/verificacion/'.$folio);
+        $response = Response::make($imagen);
+        $response->header('Content-Type', 'image/png');
+        $response->header('Content-Disposition', 'attachment; filename="codigo_qr.png"');
+
+        return $response;
+    }
+
+    public function exportarAlumnos(){
+        return Excel::download(new certicadosExport, 'certificados.xlsx');
     }
 
     /**

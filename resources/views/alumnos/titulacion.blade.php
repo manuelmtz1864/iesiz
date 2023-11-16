@@ -36,7 +36,7 @@
                         <a class="nav-link" href="{{route('alumnosTitulacion')}}">Alumnos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Projectos</a>
+                        <a class="nav-link" href="{{route('exportarAlumnos')}}">Exportar</a>
                     </li>
                 </ul>
             </div>
@@ -109,7 +109,7 @@
                         <td>{{$alumno->Turno}}</td>
                         <td>{{$alumno->Folio}}</td>
                         <td class="text-center">{{$alumno->Timbrado}}</td>
-                        <td style="" class="" data-mdb-field="contact" false="">
+                        <td style="" class="text-center" data-mdb-field="contact" false="">
                             <a href="{{route('certificates.show', $alumno->id_hash)}}" target="_blank" rel="noopener noreferrer" title="Ver certificado">
                                 <button class="call-btn btn btn-outline-primary btn-floating btn-sm">
                                     <i class="fas fa-eye"></i>
@@ -118,6 +118,11 @@
                             <a href="{{route('generarCodigoQR', $alumno->id_hash)}}" target="_blank" rel="noopener noreferrer" title="Generar QR">
                                 <button class="message-btn btn ms-2 btn-primary btn-floating btn-sm">
                                     <i class="fas fa-qrcode"></i>
+                                </button>
+                            </a>
+                            <a href="{{route('DescargarCodigoQR', $alumno->id_hash)}}" target="_blank" rel="noopener noreferrer" title="Descargar QR">
+                                <button class="message-btn btn ms-2 btn-success btn-floating btn-sm">
+                                    <i class="fas fa-download"></i>
                                 </button>
                             </a>
 

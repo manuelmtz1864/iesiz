@@ -24,7 +24,8 @@
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <a class="navbar-brand mt-2 mt-lg-0" href="#">
-                    <img src="{{ asset('img/LOGOIESIZv1.png') }}" height="15"alt="MDB Logo" loading="lazy" />
+                    <img src="{{ asset('img/LOGOIESIZv1.png') }}" height="15"alt="Logo" loading="lazy" />
+                    {{-- <img src="{{ asset(Storage::url('public/qrcodes/1_qr.png'))}}" height="15"alt="Logo" loading="lazy" /> --}}
                 </a>
 
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -35,7 +36,7 @@
                         <a class="nav-link" href="{{route('alumnosTitulacion')}}">Alumnos</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Projectos</a>
+                        <a class="nav-link" href="{{route('exportarAlumnos')}}">Exportar</a>
                     </li>
                 </ul>
             </div>
